@@ -21,9 +21,12 @@
 npm install
 ```
 
+## Ejecución
 ```bash
 npm run start
 
-# En modo de desarrollo
+```
+### En modo de desarrollo
+```
 npm run start:dev
 ```
